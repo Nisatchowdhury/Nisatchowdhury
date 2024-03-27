@@ -1,6 +1,6 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Nisat Chowdhury</h1>
-<h2 align="center">A passionate frontend developer from Bangladesh</h2>
+<h2 align="center">A passionate Web & Apps developer from Bangladesh</h2>
 [![Video Demo]([(https://github.com/Misbah01798/Misbah01798/blob/main/MISBAH.mp4)]
 
 <img align="right" alt="coding" width="400" scr="![Video Demo]([(https://github.com/Misbah01798/Misbah01798/blob/main/MISBAH.mp4)])
